@@ -1,0 +1,22 @@
+ h1{
+  color: green;
+ }
+ mark{
+  color: tomato;
+ }
+ p{
+  background: blue;
+  height: 100px;
+  width: 100px;
+  border: 1px solid blue;
+  animation: box 3s 0.3s linear infinite;
+ }
+ p:hover{
+  cursor: pointer;
+  left: 100%;width:100% ;
+  transition: all 3s linear ;
+ }
+ input{
+  color: aqua;
+ }
+  
